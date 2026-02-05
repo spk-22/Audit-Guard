@@ -37,7 +37,7 @@ The system operates on a hybrid model:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/VeriChain-Audit.git](https://github.com/yourusername/VeriChain-Audit.git)
+   git clone [https://github.com/yourusername/VeriChain-Audit.git](https://github.com/spk-22/Audit-Guard/edit/main/README.md)
 
 2. Install dependencies:
    ```bash
