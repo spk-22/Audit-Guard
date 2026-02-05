@@ -57,7 +57,7 @@ CONTRACT_ADDRESS=...
    ```bash
    npm start
    
-👥 Roles & Workflows
+Roles & Workflows
 Business User: Uploads records and evidence.
 Admin: Manages users, reviews discrepancy alerts, and initiates correction loops.
 Auditor: Performs deep integrity scans and provides human-in-the-loop validation of blockchain proofs.
